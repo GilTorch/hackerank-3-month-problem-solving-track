@@ -27,5 +27,5 @@ function miniMaxSum(arr) {
     console.log(`${minSum} ${maxSum}`)
 }
 
-console.log(minMaxSum([1, 3, 5, 7, 9]))
-console.log(minMaxSum([1, 2, 3, 4, 5]))
+console.log(miniMaxSum([1, 3, 5, 7, 9]))
+console.log(miniMaxSum([1, 2, 3, 4, 5]))
