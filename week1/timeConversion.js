@@ -12,7 +12,6 @@
         let seconds = hourMinutesAndSecondsArray[2].replace(/AM|PM/,"")
 
         if(convertedHour === '12' && isAM){
-            console.log('here')
             convertedHour = '00'
         }
 
